@@ -32,9 +32,3 @@ print(output1 + output2)
 # input  :A55
 # output: AAAAA
 
-s1 = "Balaji"
-s1[0] = "k"
-if s1[0] == "B":
-    s1[0] = "K"
-
-print(s1)
